@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "assert.h": "c",
+        "error.h": "c",
+        "sstream": "c"
+    }
+}
